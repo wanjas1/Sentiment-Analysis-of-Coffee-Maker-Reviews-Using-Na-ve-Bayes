@@ -2,6 +2,8 @@
 
 ![coffee maker2](https://github.com/user-attachments/assets/0283f565-870f-4b4b-96b7-e7a7fa8e7add)
 
+Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-coffee-maker-is-making-a-cup-of-coffee-A_90G6Ta56A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 Project Overview
 
 Customer sentiment is a key driver of brand perception and product improvement. DeLonghi, a coffee maker manufacturer, wants to gain deeper insights into customer feedback by identifying negative reviews effectively. While overall sentiment analysis is valuable, prioritizing the accurate detection of negative sentiment is crucial for addressing customer concerns and improving product satisfaction.
